@@ -15,6 +15,9 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>20</java.version>
+		<maven.compiler.source>20</maven.compiler.source>
+    	<maven.compiler.target>20</maven.compiler.target>
+    	<maven.compiler.release>20</maven.compiler.release>
 	</properties>
 	<dependencies>
                 <dependency>
@@ -104,6 +107,15 @@
 	<build>
 		<plugins>
 			<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.8.1</version>
+            <configuration>
+                <source>20</source> <!-- Cambia a 1.8 o a la versión compatible con tu proyecto -->
+                <target>20</target>
+            </configuration>
+			</plugin>
+        <plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
@@ -117,5 +129,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
