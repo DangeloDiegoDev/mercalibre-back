@@ -53,16 +53,15 @@ D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\repository\RopaReposito
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\security\entity\Rol.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\repository\ColorRepository.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\security\repository\UsuarioRepository.java
+D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\service\MyScheduledTask.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\security\PayPalHttpClient.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\dto\ColorDto.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\model\Ropa.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\controller\RopaController.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\security\controller\Mensaje.java
-D:\Projects\MercaLibre-Back\src\main\java\com\merca\CronConfig.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\security\dto\JwtDto.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\security\service\UsuarioService.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\service\ImagenColorService.java
-D:\Projects\MercaLibre-Back\src\main\java\com\merca\MyScheduledTask.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\security\controller\AuthController.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\security\dto\LoginUsuario.java
 D:\Projects\MercaLibre-Back\src\main\java\com\merca\back\model\Talle.java

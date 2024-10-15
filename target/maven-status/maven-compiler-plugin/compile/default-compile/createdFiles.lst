@@ -29,7 +29,6 @@ com\merca\back\service\RopaColorService.class
 com\merca\back\security\dto\PurchaseUnit.class
 com\merca\back\model\ImagenColor.class
 com\merca\back\security\service\UserDetailsImplService.class
-com\merca\MyScheduledTask.class
 com\merca\back\security\repository\RolRepository.class
 com\merca\back\security\jwt\JwtProvider.class
 com\merca\back\controller\CategoriaController.class
@@ -49,6 +48,7 @@ com\merca\back\security\dto\MoneyDTO$MoneyDTOBuilder.class
 com\merca\back\security\entity\Usuario.class
 com\merca\back\service\TalleService.class
 com\merca\back\repository\ImagenColorRepository.class
+com\merca\back\service\MyScheduledTask.class
 com\merca\back\model\Talle.class
 com\merca\back\model\Ropa.class
 com\merca\back\repository\RopaRepository.class
@@ -64,6 +64,5 @@ com\merca\back\security\jwt\JwtEntryPoint.class
 com\merca\back\model\Imagen.class
 com\merca\back\security\dto\NuevoUsuario.class
 com\merca\back\security\dto\PayPalAppContextDTO.class
-com\merca\CronConfig.class
 com\merca\back\dto\TalleDto.class
 com\merca\back\security\PayPalHttpClient.class
